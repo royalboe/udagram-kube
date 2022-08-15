@@ -4,7 +4,7 @@ data:
   AWS_BUCKET: microservices-956685956331-bucket
   AWS_PROFILE: default
   AWS_REGION: us-east-1
-  JWT_SECRET: hello
+  JWT_SECRET: testing
   POSTGRES_DB: postgres
   POSTGRES_HOST: royalboedb.corkrlydpred.us-east-1.rds.amazonaws.com
   URL: http://localhost:8100  
