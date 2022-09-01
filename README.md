@@ -21,6 +21,7 @@ We do _not_ want your credentials to be stored in git. After pulling this `start
 
 Afterwards, we can prevent the file from being included in your solution by adding the file to our `.gitignore` file.
 
+
 ### 1. Database
 Create a PostgreSQL database either locally or on AWS RDS. The database is used to store the application's metadata.
 
